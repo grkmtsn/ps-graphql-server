@@ -1,5 +1,5 @@
 import productTypes from './product.type';
 
-const typeDefs = { productTypes };
+const typeDefs = { ...productTypes };
 
 export default typeDefs;
