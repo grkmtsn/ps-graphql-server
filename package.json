@@ -35,8 +35,7 @@
   },
   "jest": {
     "testPathIgnorePatterns": [
-      "/node_modules/",
-      "/__utils"
+      "/node_modules/"
     ]
   }
 }
