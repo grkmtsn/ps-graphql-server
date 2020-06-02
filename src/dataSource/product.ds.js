@@ -1,7 +1,7 @@
 /* eslint-disable no-underscore-dangle */
 import { RESTDataSource } from 'apollo-datasource-rest';
 
-const BASE_URL = 'http://localhost:5000/products';
+const BASE_URL = 'http://64.227.82.106:5000/products';
 
 class ProductAPI extends RESTDataSource {
 	constructor() {
